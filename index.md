@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My personal site</title>
+    
 </head>
 <body>
     <center>
@@ -28,8 +28,7 @@
     <li><a href="#t4">Education</a></li>
     <li><a href="#t5">Skills</a></li>
     <li><a href="#t6">Hobbies</a></li>
-    <li><a href="#t6">Contacts</a></li>
-    </uol><hr>
+    <li><a href="#t6">Contacts</a></li></uol><hr>
     <p id="t1"><strong>Age: 25</strong></p>
     <p><strong>DOB: 10.05.1997</strong></p>
     <p><strong>Citizenship: Kazakhstan</strong></p>
@@ -87,6 +86,6 @@
             <input type="text" placeholder="Enter name"><br>
             <input type="text" placeholder="Phone number"><br><br>
             <input type="submit" value="Submit">
-    </form>
+        </form>
 </body>
 </html>
