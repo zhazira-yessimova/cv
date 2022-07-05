@@ -22,8 +22,8 @@
     </center>
     <h3>Content table</h3>
     <uol>
-    <li><a href="#t1">Age<a></li>
-    <li><a  href="#t2">About me</a></li>
+    <li><a href="#t1">Age</a></li>
+    <li><a href="#t2">About me</a></li>
     <li><a href="#t3">Work Experience</a></li>
     <li><a href="#t4">Education</a></li>
     <li><a href="#t5">Skills</a></li>
@@ -83,11 +83,10 @@
         <img src="https://seeklogo.com/images/I/instagram-new-2016-glyph-logo-84CB825424-seeklogo.com.png"
         width="30px" height="30px">
         <img src="https://www.kindpng.com/picc/m/11-118708_email-computer-icons-icon-design-clip-art-transparent.png" width="35px" height="30px"><br><br>
-        
         <form>
             <input type="text" placeholder="Enter name"><br>
             <input type="text" placeholder="Phone number"><br><br>
             <input type="submit" value="Submit">
-        </form>
+    </form>
 </body>
 </html>
